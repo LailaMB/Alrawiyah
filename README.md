@@ -1,8 +1,10 @@
 # Alrawiyah الرّاوية
 
+![logo_alrawiyah](logo_alrawiyah_small.png)
+
 
 الكود الذي تم بنائه لتطوير مشروع الرّاوية - المشروع المقدم لبرمجان اللغة العربية لعام ٢٠٢٢
-![logo_alrawiyah_small](.png)
+
 
 ## Data البيانات
 
