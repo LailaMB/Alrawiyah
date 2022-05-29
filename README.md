@@ -22,6 +22,8 @@ https://www.kaggle.com/datasets/asalhi/alrawiyah
 
 وعلى جوجل درايف من هنا : 
 https://drive.google.com/drive/folders/194wa_q5zvV8NaE0uiPXxYT0knYZx8BlV
+
+
 وهي تضم عدة انواع ملخصة في الجدول التالي :
 
 
