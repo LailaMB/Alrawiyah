@@ -18,9 +18,7 @@ https://github.com/asalhi/alrawiyah_data_collect
 ## Data البيانات
 
 البيانات متوفر على كاجل للتنزيل والاستخدم وهي تضم عدة انواع ملخصة في الجدول التالي :
-
-
-https://github.com/asalhi/alrawiyah_data_collect
+https://www.kaggle.com/datasets/asalhi/alrawiyah
 
 ![Alt text](https://raw.githubusercontent.com/asalhi/alrawiyah_data_collect/main/info_about_data2.png?raw=true "Title")
 
